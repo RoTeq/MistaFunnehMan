@@ -1,7 +1,7 @@
 
-# Jennifer Feldman
+# Jay Feldman
 
-### cyber dumbass and coding enthusiast
+### cyber dummie and coding enthusiast
 
 >beginer knowledge in C/ASM/Powershell
 
