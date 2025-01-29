@@ -1,10 +1,10 @@
 
 # Jay Feldman
 
-### cyber dummie and coding enthusiast
+### Cybersecurity Analyst
 
->beginer knowledge in C/ASM/Powershell
+- learning ASM/Rust
+- Python/C dev
+- writing programming languages and hacking things :3
 
->decent at Bash/Python/Scratch(lmao dont @ me)
 
->Windows Security expert but learning many Linux things
